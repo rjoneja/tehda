@@ -13,5 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "serve": "^11.3.2"
+  },
+  "engines": {
+    "node": "14.16"
   }
 }
