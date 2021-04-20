@@ -10,5 +10,8 @@
     "dummy": "nodemon index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
 }
